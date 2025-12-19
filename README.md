@@ -1,10 +1,16 @@
-# Clone of the Wordle game
+# Cheadle (Wordle Variant)
+
+Thanks to https://github.com/wissamfawaz/wordle-clone for providing the base code.
+
+## Running Locally
+
+To play, simply download the repository and open the html file in your preferred web browser.
 
 ## Instructions
 
-You have 6 attempts to guess the word.
+You have 6 attempts to guess Don Cheadle's word of the day.
 
-Each guess consists of 5 letters. After providing a guess, press the enter key.
+Each guess consists of 5 letters. After providing a guess, press the enter key. Each guess must be recognized as a valid dictionary word.
 
 ## Color Codes of Letters
 
